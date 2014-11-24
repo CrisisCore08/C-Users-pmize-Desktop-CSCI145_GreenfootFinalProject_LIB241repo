@@ -1,9 +1,23 @@
 #Greenfoot project file
+class.Player.superclass=greenfoot.Actor
 mainWindow.height=357
 mainWindow.width=713
-mainWindow.x=40
-mainWindow.y=40
+mainWindow.x=98
+mainWindow.y=304
 package.numDependencies=0
-package.numTargets=0
+package.numTargets=1
 project.charset=UTF-8
+target1.editor.height=700
+target1.editor.width=900
+target1.editor.x=399
+target1.editor.y=126
+target1.height=50
+target1.name=Player
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=80
+target1.x=70
+target1.y=10
 version=2.6.0
